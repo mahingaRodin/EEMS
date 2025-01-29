@@ -1,0 +1,12 @@
+"D:\CLion 2024.3.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2024.3.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\user\CLionProjects\EEMS -B C:\Users\user\CLionProjects\EEMS\cmake-build-debug
+CMake Warning at D:/CLion 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake:252 (message):
+  Disabling CMAKE_GNUtoMS option because CMAKE_GNUtoMS_VCVARS is not set.
+Call Stack (most recent call first):
+  D:/CLion 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake:1 (__windows_compiler_gnu_abi)
+  D:/CLion 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake:71 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/user/CLionProjects/EEMS/cmake-build-debug
